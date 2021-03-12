@@ -6,4 +6,5 @@ REQUIRES the following Arduino libraries:
 - Adafruit Unified Sensor Lib: https://github.com/adafruit/Adafruit_Sensor
 <br />
 Expected Ouptut:
+<br />
 ![alt text](https://github.com/HalbEx-Equinox/DHT11/blob/main/dht11op.PNG?raw=true)
