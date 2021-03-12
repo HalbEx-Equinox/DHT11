@@ -1,6 +1,5 @@
 # DHT11
-This is just the basic code to get the dht11 to spurt out data.
-Interfacing dht11 temperature and humidity sensor with the arduino
+Interfacing dht11 temperature and humidity sensor with the arduino. This is just the basic code to get the dht11 to spurt out data.
 <br />
 REQUIRES the following Arduino libraries:
 - DHT Sensor Library: https://github.com/adafruit/DHT-sensor-library
