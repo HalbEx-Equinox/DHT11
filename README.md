@@ -1,4 +1,5 @@
 # DHT11
+This is just the basic code to get the dht11 to spurt out data.
 Interfacing dht11 temperature and humidity sensor with the arduino
 <br />
 REQUIRES the following Arduino libraries:
